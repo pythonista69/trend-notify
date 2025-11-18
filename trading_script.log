@@ -1,0 +1,14 @@
+2025-11-18 19:20:44,249 - INFO - --------------------------------------------------
+2025-11-18 19:20:44,249 - INFO - Script Started: Analyzing Market Conditions
+2025-11-18 19:20:44,250 - INFO - Loaded 4 tickers from piece.txt
+2025-11-18 19:20:44,250 - INFO - Analyzing ticker: CIPLA.NS...
+2025-11-18 19:20:47,842 - INFO - No signal for CIPLA.NS. Current Trend: up
+2025-11-18 19:20:47,843 - INFO - Analyzing ticker: TATAMOTORS.NS...
+2025-11-18 19:20:48,436 - INFO - No signal for TATAMOTORS.NS. Current Trend: up
+2025-11-18 19:20:48,436 - INFO - Analyzing ticker: RELIANCE.NS...
+2025-11-18 19:20:48,912 - INFO - No signal for RELIANCE.NS. Current Trend: down
+2025-11-18 19:20:48,914 - INFO - Analyzing ticker: INFY.NS...
+2025-11-18 19:20:50,122 - INFO - !! Signal Found for INFY.NS. Preparing notification.
+2025-11-18 19:20:55,944 - INFO - Email sent successfully to keshavaradha990@gmail.com | Subject: Trade Signal: SELL INFY.NS
+2025-11-18 19:20:55,944 - INFO - Analysis Complete. Script Finished.
+2025-11-18 19:20:55,944 - INFO - --------------------------------------------------
